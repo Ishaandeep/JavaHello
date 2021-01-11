@@ -10,7 +10,9 @@ public class Hello {
     System.out.println(a);
     if(++a<c){
         System.out.println(a);
+
     }
+    System.out.println("hello world");
     
 
     }
